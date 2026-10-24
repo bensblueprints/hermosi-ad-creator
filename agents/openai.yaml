@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hermosi Ad Creator"
+  short_description: "Complete video and Facebook ad creative packs"
+  default_prompt: "Use $hermosi-ad-creator to build a complete ad pack for this product and website."
